@@ -1,2 +1,0 @@
-C:\Users\дарья\Desktop\флеха\диплом\6\obj\Debug\assemblies\tts.dll
-C:\Users\дарья\Desktop\флеха\диплом\6\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
