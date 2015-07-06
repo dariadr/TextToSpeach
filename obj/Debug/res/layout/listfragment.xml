@@ -1,0 +1,1 @@
+<FrameLayout android:layout_width="match_parent" android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android"><fragment class="md5832a8baa19d67d30faaee0f1fc515454.FileListFragment" android:id="@+id/file_list_fragment" android:layout_width="match_parent" android:layout_height="match_parent" /></FrameLayout>
